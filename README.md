@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">👋 你好，我是 HeZ2z</h1>
 
-<!--
-**HeZ2z/HeZ2z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://hez2z.github.io"><img src="https://img.shields.io/badge/Blog-hez2z.github.io-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/HeZ2z"><img src="https://img.shields.io/badge/GitHub-HeZ2z-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:hez2z@foxmail.com"><img src="https://img.shields.io/badge/Email-hez2z@foxmail.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeZ2z&show_icons=true&theme=transparent&hide_border=true&count_private=true&locale=cn" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeZ2z&layout=compact&theme=transparent&hide_border=true&locale=cn" />
+</p>
