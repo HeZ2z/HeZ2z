@@ -11,5 +11,5 @@
 ---
 
 <p align="center">
-  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hez2z&layout=compact&theme=transparent&exclude_repo=HeZ2z.github.io,hez-notes&hide=assembly,html,linker script&v=20260520" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hez2z&layout=compact&theme=transparent&exclude_repo=HeZ2z.github.io,hez-notes&hide=assembly,html,linker+script&v=20260527" />
 </p>
